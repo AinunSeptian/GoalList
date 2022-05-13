@@ -13,6 +13,7 @@
   width: 100%;
   border: 1px solid #ccc;
   font: inherit;
+  font-size: 14px;
   line-height: 1.5rem;
   padding: 0 0.25rem;
 }
