@@ -18,6 +18,12 @@
   padding: 0 0.25rem;
 }
 
+.form-control input::placeholder {
+  font-size: 12px;
+  font-style: italic;
+  color: red;
+}
+
 .form-control input:focus {
   outline: none;
   background: #fad0ec;
